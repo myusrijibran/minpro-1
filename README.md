@@ -137,6 +137,7 @@ Flowchart digunakan untuk menjelaskan alur proses aplikasi dari awal dijalankan 
 <img width="708" height="552" alt="image" src="https://github.com/user-attachments/assets/7141df46-c595-4128-980a-c75a17af0903" />
 
 ![Flowchart Petugas Jadwal  Menu Jadwal ](Gambar/Petugas Jadwal  Menu Jadwal .png)
+</details>
 
 
 ### 5.2 Use Case Diagram
