@@ -291,3 +291,14 @@ public interface DAO<T> {
     List<T> cari(String keyword);
 }
 ```
+
+## 9. Kontributor
+
+| No. | Nama | NIM |
+|---|---|---|
+| 1 | [AULIA SHEVA SAVITRI ] | [2509116001] |
+| 2 | [MUHAMMAD YUSRI JIBRAN S.J. ] | [2509116030] |
+| 3 | [JIHAN SHAFIRA RAHMAH ] | [2509116073] |
+| 4 | [OTNIEL PUTRA WARDANA ] | [2509116181] |
+
+---
