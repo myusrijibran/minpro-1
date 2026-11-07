@@ -89,6 +89,56 @@ Flowchart digunakan untuk menjelaskan alur proses aplikasi dari awal dijalankan 
 
 </details>
 
+<details>
+<summary><b>Flowchart Admin  Menu Mitra </b></summary>
+
+<img width="825" height="528" alt="image" src="https://github.com/user-attachments/assets/e7c5503a-e8f0-4f62-b10d-fba48f0f956f" />
+
+![Flowchart Admin - Menu Mitra ](Gambar/flowchart-Admin  Menu Mitra .png)
+
+</details><details>
+<summary><b>Flowchart Admin - Menu Kerja Sama </b></summary>
+
+<img width="826" height="518" alt="image" src="https://github.com/user-attachments/assets/7576dd37-5f03-4961-8526-0cc919f3318d" />
+
+![Flowchart Admin - Menu Kerja Sama ](Gambar/flowchart Admin - Menu Kerja Sama .png)
+
+</details><details>
+<summary><b>Flowchart Admin - Menu Kanal </b></summary>
+
+<img width="826" height="492" alt="image" src="https://github.com/user-attachments/assets/97ba21dc-bf72-4f58-9348-91cf0c4c07b1" />
+
+![Flowchart Admin - Menu Kanal ](Gambar/Admin - Menu Kanal .png)
+
+</details><details>
+<summary><b>Flowchart Menu Petugas Konten </b></summary>
+
+<img width="515" height="652" alt="image" src="https://github.com/user-attachments/assets/e8890f0e-dc00-4b38-8d2e-307daccba867" />
+
+![Flowchart Menu Petugas Konten ](Gambar/Menu Petugas Konten .png)
+
+</details><details>
+<summary><b>Flowchart Petugas Konten - Menu Konten </b></summary>
+
+<img width="826" height="624" alt="image" src="https://github.com/user-attachments/assets/c4edc0c9-46a3-43b0-a7c1-0005b6496ee0" />
+
+![Flowchart Petugas Konten - Menu Konten](Gambar/Petugas Konten - Menu Konten.png)
+
+</details><details>
+<summary><b>Flowchart Petugas Konten - Menu Publikasi</b></summary>
+
+<img width="826" height="600" alt="image" src="https://github.com/user-attachments/assets/ee50b66e-59eb-4e0b-811e-ec9f1e8a7a92" />
+
+![Flowchart Petugas Konten - Menu Publikasi](Gambar/Petugas Konten - Menu Publikasi.png)
+
+</details><details>
+<summary><b>Flowchart Petugas Jadwal - Menu Jadwal </b></summary>
+
+<img width="708" height="552" alt="image" src="https://github.com/user-attachments/assets/7141df46-c595-4128-980a-c75a17af0903" />
+
+![Flowchart Petugas Jadwal  Menu Jadwal ](Gambar/Petugas Jadwal  Menu Jadwal .png)
+
+
 ### 5.2 Use Case Diagram
 
 
